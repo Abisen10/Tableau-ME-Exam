@@ -1,12 +1,16 @@
 # Tableau-ME-Exam
+#DATA SCIENCE 6TH MODULE END EXAM- TABLEAU 
+       #----------------------------------------------------------------QUESTION------------------------------------------------------------
+## 1:-  Explain in detail the area graphs and line graphs in tableau and how to create them with examples. (With the help of an example create one in tableau?
 
-DATA SCIENCE 6TH MODULE END EXAM- TABLEAU 
-QUESTION
-1:-  Explain in detail the area graphs and line graphs in tableau and how to create them with examples. (With the help of an example create one in tableau?
-ANSWER
-Area Graphs :- Area graphs are a type of chart that illustrate how larger and smaller values compare to each other over a period of time, by displaying them as areas shaded on a graph. Area graphs are commonly used to show trends in a dataset over time. 
+###ANSWER
+
+Area Graphs :- Area graphs are a type of chart that illustrate how larger and smaller values compare to each other over a period of time, by displaying them as areas shaded on a graph. Area graphs are commonly used to show trends in a dataset over time.
+
 To create an area graph in Tableau, start by dragging a measure to the Columns shelf. Then drag a dimension to the Rows shelf. Next, select Show Me from the top right corner of the Tableau window and choose Area from the drop-down menu.  
+
 Line Graphs :- Line graphs are a type of chart that display data as a series of points connected by straight lines. Line graphs are commonly used to show trends in a dataset over time.
+
 To create a line graph in Tableau, start by dragging a measure to the Columns shelf. Then drag a dimension to the Rows shelf. Next, select Show Me from the top right corner of the Tableau window and choose Line from the drop-down menu. 
 
 ![ss](https://user-images.githubusercontent.com/87488680/227709355-3f757efa-d4b2-42f7-9b43-5b001b310bcc.png)
