@@ -242,14 +242,23 @@ QUESTION
 ### ANSWER
 
 Step 1: Open Tableau software and connect to a data source.
+
 Step 2: Drag and drop the Story Points field from the data source to the Rows shelf.
+
 Step 3: Drag and drop the Task Name field from the data source to the Columns shelf.
+
 Step 4: Right click on the Story Points field in the Rows shelf and select Measure > Count.
+
 Step 5: Right click on the Task Name field in the Columns shelf and select Measure > Average.
+
 Step 6: To add a chart to the dashboard, select a chart type from the Show Me drop-down list.
+
 Step 7: To create a customized chart, select the chart type from the drop-down list, then customize the chart by selecting the chart type, number of series, and labels.
+
 Step 8: Drag and drop the chart to the dashboard canvas.
+
 Step 9: To add additional charts and/or dashboard elements, repeat steps 2-7.
+
 Step 10: To save the dashboard, click File > Save As. 
 
 
