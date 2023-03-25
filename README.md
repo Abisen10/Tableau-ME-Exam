@@ -3,7 +3,7 @@
      
 ## 1:-  Explain in detail the area graphs and line graphs in tableau and how to create them with examples. (With the help of an example create one in tableau?
 
-###ANSWER
+### ANSWER
 
 Area Graphs :- Area graphs are a type of chart that illustrate how larger and smaller values compare to each other over a period of time, by displaying them as areas shaded on a graph. Area graphs are commonly used to show trends in a dataset over time.
 
