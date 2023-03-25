@@ -38,7 +38,6 @@ Let's say we want to group the fields “Product Category”, “Sub-Category”
  
 ![2](https://user-images.githubusercontent.com/87488680/227712717-f2f86188-7218-4e90-911d-67538975798d.png)
 
-
 _________________________________________________________________________________________
 
 ## 3 :-  What is the use of color and size options in the marks cart of tableau ? (With the help of an example create one in tableau) ?
@@ -47,18 +46,7 @@ ________________________________________________________________________________
 
 The Color and Size options in the Marks Card of Tableau are used to differentiate between different data points in a graph
 
-
- 
-
-
-
-
-
-
-
-
-
-
+![3](https://user-images.githubusercontent.com/87488680/227712765-8112716a-d1ef-4d6e-8739-53675358e502.png)
 __________________________________________________________________________________________
 
 ## 4 :- What are the different joins supported by tableau? (With the help of an example create one in tableau)?
@@ -75,16 +63,7 @@ Tableau supports the following types of joins:
 
 4. Full Join: This join returns all the records from both the tables, regardless of whether the other table has a matching record or not.
  
-
- 
-
-
-
-
-
-
-
-
+![4](https://user-images.githubusercontent.com/87488680/227712825-898707a4-6026-4e85-a2e3-847b35176552.png)
 
 
 ## 5:- Explain the steps to create dashboard in tableau with example (With the help of an example create one in tableau)?
@@ -109,7 +88,7 @@ Once you have created your visualizations, you can assemble them into a dashboar
 Step 6: Publish Your Dashboard 
 When your dashboard is complete, you can publish
  
-
+ ![5](https://user-images.githubusercontent.com/87488680/227712847-e5e9f66b-5106-4b64-ab05-1ea681887ca0.png)
 
 __________________________________________________________________________________________
 
@@ -120,8 +99,11 @@ ________________________________________________________________________________
 Heat Maps:
 A heat map is a graphical representation of data where the individual values contained in a matrix are represented as colors. This type of visualization is useful for understanding and comparing large amounts of data, as it allows the viewer to quickly spot patterns, trends, and outliers. Heat maps can be used to compare and contrast different data sets, identify correlations, and highlight areas of interest.
 
+
 Scatter Plots:
 A scatter plot is a type of graph used to show the relationship between two variables. It is a two-dimensional chart that plots each data point as a point along the two axes. The points are then connected with a line or a curve to show the relationship between the two variables. Scatter plots can be used to compare and contrast different data sets, identify correlations, and highlight areas of interest.
+
+
 
 Example in Tableau:
 
@@ -135,7 +117,8 @@ Heat Map:
 5. Select the column you'd like to use for the color of the heat map.
 6. Click "Apply" to create the heat map. 
 
-
+![6](https://user-images.githubusercontent.com/87488680/227712881-3d965351-a297-46b1-aceb-4ba835bcb083.png)
+ 
 Scatter Plot:
 1. In Tableau, select the "Sheet" tab and select the "Add" button.
 2. From the drop-down menu, select "Scatter Plot".
@@ -144,19 +127,7 @@ Scatter Plot:
 5. Select the column you'd like to use for the color of the scatter plot.
 6. Click "Apply" to create the scatter plot.
  
-
-
-
-
-
-
-
-
-
-
-
-
-
+![6 2](https://user-images.githubusercontent.com/87488680/227712898-cf634691-1313-44cc-ac71-7a8e377336a6.png)
 
 __________________________________________________________________________________________
 
@@ -182,9 +153,7 @@ For example, to calculate the running total of a measure, select “Running Tota
  
 6) Click “OK” and the table calculation will be applied to the view.
 
-
- 
-
+![7](https://user-images.githubusercontent.com/87488680/227712917-4fe9070f-9c60-4736-a379-c78a0974e75a.png)
 
 _________________________________________________________________________________________
 QUESTION
@@ -194,18 +163,7 @@ QUESTION
 
 Distribution bands in Tableau are used to identify abnormal data points in a visualization. They are created by plotting a standard deviation or percentile line on a chart. This line will show where data points are located above or below the average.
 
-
- 
-
-
-
-
-
-
-
-
-
-
+![8](https://user-images.githubusercontent.com/87488680/227712942-c31093e6-b0cd-40a4-89cb-84f8ab092edb.png)
 
 
 __________________________________________________________________________________________
@@ -236,6 +194,8 @@ Creating a Pie Chart in Tableau
 8. To adjust the colors of the sections, select the Color card and choose the color palette you would like to use.
 9. To adjust the angle of the sections, select the Angle card and select the angle you would like to use.
  
+ ![9](https://user-images.githubusercontent.com/87488680/227712990-82cd4d36-06a9-4d6d-95e6-6114a198651d.png)
+  
 __________________________________________________________________________________________
 QUESTION
 ## 10 :- How to add story points on the dashboard (With the help of an example create one in tableau)
@@ -261,5 +221,6 @@ Step 9: To add additional charts and/or dashboard elements, repeat steps 2-7.
 
 Step 10: To save the dashboard, click File > Save As. 
 
+![10](https://user-images.githubusercontent.com/87488680/227713019-19f7d9d3-6345-4c27-be98-9eff252ee275.png)
 
  
