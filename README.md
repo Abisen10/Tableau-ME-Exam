@@ -36,7 +36,7 @@ For example, you can create a custom view of the Sample Superstore to analyze th
 
 Let's say we want to group the fields “Product Category”, “Sub-Category”, and “Product Name” together in order to analyze sales performance of each product. To do this, we first need to select the fields and drag them into the same group. We can do this by selecting the fields in the data pane and dragging them into the same group in the view. Once the fields are grouped together, we can then analyze the sales performance of each product by using the “Sales” and “Profit”.
  
-
+![2](https://user-images.githubusercontent.com/87488680/227712717-f2f86188-7218-4e90-911d-67538975798d.png)
 
 
 _________________________________________________________________________________________
