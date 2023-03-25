@@ -8,6 +8,9 @@ Area Graphs :- Area graphs are a type of chart that illustrate how larger and sm
 To create an area graph in Tableau, start by dragging a measure to the Columns shelf. Then drag a dimension to the Rows shelf. Next, select Show Me from the top right corner of the Tableau window and choose Area from the drop-down menu.  
 Line Graphs :- Line graphs are a type of chart that display data as a series of points connected by straight lines. Line graphs are commonly used to show trends in a dataset over time.
 To create a line graph in Tableau, start by dragging a measure to the Columns shelf. Then drag a dimension to the Rows shelf. Next, select Show Me from the top right corner of the Tableau window and choose Line from the drop-down menu. 
+
+![ss](https://user-images.githubusercontent.com/87488680/227709355-3f757efa-d4b2-42f7-9b43-5b001b310bcc.png)
+
 __________________________________________________________________________________________
 QUESTION
 2 :- What are the different steps in grouping fields and combining tables in tableau ? Explain with examples. (With the help of an example create one in tableau)?
