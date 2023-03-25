@@ -1,6 +1,6 @@
 # Tableau-ME-Exam
 #DATA SCIENCE 6TH MODULE END EXAM- TABLEAU 
-       #----------------------------------------------------------------QUESTION------------------------------------------------------------
+     
 ## 1:-  Explain in detail the area graphs and line graphs in tableau and how to create them with examples. (With the help of an example create one in tableau?
 
 ###ANSWER
@@ -16,14 +16,24 @@ To create a line graph in Tableau, start by dragging a measure to the Columns sh
 ![ss](https://user-images.githubusercontent.com/87488680/227709355-3f757efa-d4b2-42f7-9b43-5b001b310bcc.png)
 
 __________________________________________________________________________________________
-QUESTION
-2 :- What are the different steps in grouping fields and combining tables in tableau ? Explain with examples. (With the help of an example create one in tableau)?
-ANSWER
+
+# 2 :- What are the different steps in grouping fields and combining tables in tableau ? Explain with examples. (With the help of an example create one in tableau)?
+
+## ANSWER
+
 1. Create a Primary Table: The first step in grouping fields and combining tables is to create a primary table. This table should contain all of the fields that you want to use in your analysis.
-2. Group Fields: Once you have your primary table, you can group fields together. This is done by selecting the fields that you want to group and then right-clicking and selecting “Group” from the context menu. 
-3. Combine Tables: Once you have grouped fields together, you can combine tables. This is done by selecting the tables you want to combine and then right-clicking and selecting “Join” from the context menu.
-4. Create a Custom View: You can create a custom view in Tableau by dragging and dropping fields into the view. For example, you can create a custom view of the Sample Superstore to analyze the sales performance of each region.
-Example:
+2. 
+3. Group Fields: Once you have your primary table, you can group fields together. This is done by selecting the fields that you want to group and then right-clicking and selecting “Group” from the context menu. 
+4. 
+5. Combine Tables: Once you have grouped fields together, you can combine tables. This is done by selecting the tables you want to combine and then right-clicking and selecting “Join” from the context menu.
+6. 
+7. Create a Custom View: You can create a custom view in Tableau by dragging and dropping fields into the view.
+
+
+For example, you can create a custom view of the Sample Superstore to analyze the sales performance of each region.
+
+###Example:
+
 Let's say we want to group the fields “Product Category”, “Sub-Category”, and “Product Name” together in order to analyze sales performance of each product. To do this, we first need to select the fields and drag them into the same group. We can do this by selecting the fields in the data pane and dragging them into the same group in the view. Once the fields are grouped together, we can then analyze the sales performance of each product by using the “Sales” and “Profit”.
  
 
